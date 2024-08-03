@@ -412,9 +412,7 @@ section {
   background: #fff;
   border: 2px solid #1f5297;
 }
-.resume .work-experience {
-  margin-top: 60px; /* Adds space above the Work Experience section */
-}
+
 .link-btn {
   background: none;
   background-color: #000;
