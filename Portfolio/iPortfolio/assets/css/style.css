@@ -359,13 +359,13 @@ section {
 .resume .resume-title {
   font-size: 26px;
   font-weight: 700;
-  margin-top: 20px;
+  margin-top: -10px;
   margin-bottom: 20px;
   color: #050d18;
 }
 .resume .resume-item {
   padding: 0 0 20px 20px;
-  margin-top: 20px;
+  margin-top: -2px;
   border-left: 2px solid #1f5297;
   position: relative;
 }
@@ -412,9 +412,7 @@ section {
   background: #fff;
   border: 2px solid #1f5297;
 }
-.resume .work-experience {
-  margin-top: 40px; /* Adjust this value to increase space above the Work Experience section */
-}
+
 
 .link-btn {
   background: none;
